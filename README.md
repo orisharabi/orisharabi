@@ -1,6 +1,6 @@
 # Hi, I'm Ori Sharabi 👋
 
-🎓 Computer Science Student at Bar-Ilan University  
+🎓 Computer Science Graduate at Bar-Ilan University  
 🤖 Robotics & Autonomous Systems  
 💻 Backend & Full-Stack Development  
 🧠 Strong foundation in Algorithms and System Design  
